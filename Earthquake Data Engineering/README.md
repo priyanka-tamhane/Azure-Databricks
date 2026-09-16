@@ -299,6 +299,9 @@ https://earthquake.usgs.gov/fdsnws/event/1/
 
 https://docs.databricks.com/aws/en/lakehouse/medallion.html
 
+**Youtube Tutorial**
+https://www.youtube.com/watch?v=zIS_ssTQmO0
+
 ---
 
 ## 🙌 Conclusion
